@@ -1,0 +1,14 @@
+test_cp1_empty_list (tests.test_bubble_sort.BubbleSortTest.test_cp1_empty_list) ... ok
+test_cp1_single_element (tests.test_bubble_sort.BubbleSortTest.test_cp1_single_element) ... ok
+test_cp2_already_sorted (tests.test_bubble_sort.BubbleSortTest.test_cp2_already_sorted) ... ok
+test_cp3_single_swap (tests.test_bubble_sort.BubbleSortTest.test_cp3_single_swap) ... ok
+test_cp4_multiple_passes_with_swaps (tests.test_bubble_sort.BubbleSortTest.test_cp4_multiple_passes_with_swaps) ... ok
+test_negative_values (tests.test_bubble_sort.BubbleSortTest.test_negative_values) ... ok
+test_repeated_values (tests.test_bubble_sort.BubbleSortTest.test_repeated_values) ... ok
+test_reverse_order (tests.test_bubble_sort.BubbleSortTest.test_reverse_order) ... ok
+test_sorts_in_place (tests.test_bubble_sort.BubbleSortTest.test_sorts_in_place) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK
